@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06a16a57-eb0b-4a51-a90e-3ce7d94622d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/arrays/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/easy/ContainsDuplicate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/arrays/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/easy/TwoSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,13 +46,26 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.arrays.TwoSum" />
+  <component name="RunManager" selected="Application.ContainsDuplicate">
+    <configuration name="ContainsDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.easy.ContainsDuplicate" />
       <module name="LeetLibrary" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.arrays.*" />
+          <option name="PATTERN" value="leetcode.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.easy.TwoSum" />
+      <module name="LeetLibrary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,6 +75,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ContainsDuplicate" />
         <item itemvalue="Application.TwoSum" />
       </list>
     </recent_temporary>
@@ -75,22 +89,12 @@
       <option name="presentableId" value="Default" />
       <updated>1730815468121</updated>
       <workItem from="1730815469300" duration="3833000" />
-      <workItem from="1731084860776" duration="2887000" />
+      <workItem from="1731084860776" duration="4823000" />
+      <workItem from="1731089854869" duration="2462000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/arrays/TwoSum.java</url>
-          <line>61</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
